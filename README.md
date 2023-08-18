@@ -1,10 +1,6 @@
 # 2024 New Grad Tech Roles by Simplify
 
-Use this repo to share and keep track of software, tech, CS, PM, quant jobs for new grads. The list is maintained by the [Simplify](https://simplify.jobs/)!
-
-> **Launch (Aug 17, 2023)** :partying_face:
-> - You guys asked for it, and now it's here!
-
+Use this repo to share and keep track of software, tech, CS, PM, quant jobs for new grads.
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
 
@@ -46,9 +42,3 @@ Use this repo to share and keep track of software, tech, CS, PM, quant jobs for 
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles#the-list-)
 
 ## We love our contributors ❤️❤️
-
-Contribute by submitting an [issue](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose)!
-<a href="https://github.com/pittcsc/2024-New-Grad-Tech-Roles/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=pittcsc/2024-New-Grad-Tech-Roles&columns=24&max=480" />
-</a>
-_Made with [contrib.rocks](https://contrib.rocks)._
