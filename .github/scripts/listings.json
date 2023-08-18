@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "date_updated": 1692325470,
+        "url": "https://example.com/link/to/posting/whoa",
+        "company_name": "TEST",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Franciso, CA",
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "matttreed",
+        "id": "3d1c34ba-a987-48b6-960d-3be398d4ac4e",
+        "date_posted": 1692325470,
+        "company_url": "",
+        "is_visible": true
+    }
+]
