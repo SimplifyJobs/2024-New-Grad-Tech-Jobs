@@ -61,7 +61,6 @@ def create_md_table(listings):
             company_url) > 0 and listing["active"] else company
         location = getLocations(listing)
         position = listing["title"] + getSponsorship(listing)
-        terms = ", ".join(listing["terms"])
         link = getLink(listing)
         month = datetime.fromtimestamp(listing["date_posted"]).strftime('%b')
         dayMonth = datetime.fromtimestamp(listing["date_posted"]).strftime('%b %d')
