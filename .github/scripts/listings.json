@@ -1,1 +1,1594 @@
-[]
+[
+    {
+        "source": "Simplify",
+        "company_name": "Hillel International",
+        "id": "8a21c8b3-a011-4d2c-ac99-6c5c24e60e1f",
+        "title": "Engagement Associate: Greek Life at Indiana University Hillel",
+        "active": true,
+        "date_updated": 1692378089,
+        "date_posted": 1692378089,
+        "url": "https://boards.greenhouse.io/hillel/jobs/4145904005",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hillel-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus Power",
+        "id": "8e46c64a-e3a8-4a32-8438-1548f821d117",
+        "title": "Data Engineer - Colorado Springs",
+        "active": true,
+        "date_updated": 1692376616,
+        "date_posted": 1692376616,
+        "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432893003",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rhombus Power",
+        "id": "2004c9ed-17b1-424a-bc9f-c9c9121556d9",
+        "title": "Data Engineer - Omaha",
+        "active": true,
+        "date_updated": 1692376624,
+        "date_posted": 1692376624,
+        "url": "https://boards.greenhouse.io/rhombuspower/jobs/5432899003",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "First American",
+        "id": "fda9c2ad-0649-4e87-907f-ec56860faf6e",
+        "title": "Data Science Associate - Hybrid",
+        "active": true,
+        "date_updated": 1692373790,
+        "date_posted": 1692373790,
+        "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Data-Science-Associate_R041378",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/First-American",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
+        "title": "Data Scientist \u2013 New Grad - 2024 Start",
+        "active": true,
+        "date_updated": 1692343499,
+        "date_posted": 1692343499,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sonatype",
+        "id": "ec5a1fe0-1714-49a0-b596-7efb24360da8",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1692342739,
+        "date_posted": 1692342739,
+        "url": "https://jobs.lever.co/sonatype/b8431705-efdb-488a-885a-6bd779f38b67/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonatype",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Allegiant Air",
+        "id": "eb7e112c-ae91-4c92-94b4-16dbe8996be0",
+        "title": "Software Middleware Engineer I",
+        "active": true,
+        "date_updated": 1692227853,
+        "date_posted": 1692227853,
+        "url": "https://jobs.lever.co/allegiantair/e82ab4f8-1ced-47d1-9685-784079a36352/apply",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegiant-Air",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vestmark",
+        "id": "20cc80aa-9a86-4b1c-bbb0-6719bb631798",
+        "title": "VAS Trader",
+        "active": true,
+        "date_updated": 1692205663,
+        "date_posted": 1692140976,
+        "url": "https://boards.greenhouse.io/vestmark/jobs/5284315",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestmark",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Salesforce",
+        "id": "af21cd98-16f4-4bea-ab94-55368e1a4366",
+        "title": "Associate Site Reliability Engineer \u2013 New Grad - Govcloud",
+        "active": true,
+        "date_updated": 1692056620,
+        "date_posted": 1692056620,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Massachusetts---Burlington/Associate-Site-Reliability-Engineer--GovCloud---New-Grad-_JR208404-1",
+        "locations": [
+            "Reston, VA",
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Kitware",
+        "id": "7c2573a4-127c-4942-a724-7ae7d174bf2a",
+        "title": "OSTP Software Developer",
+        "active": true,
+        "date_updated": 1692054768,
+        "date_posted": 1692054768,
+        "url": "https://jobs.lever.co/kitware/f385e827-dd18-4598-830e-05ce62525a64/apply",
+        "locations": [
+            "Clifton Park, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Celonis",
+        "id": "7bdf92d6-2eac-4562-89a8-9d1f22f8d777",
+        "title": "Associate Value Engineer - Orbit Program",
+        "active": true,
+        "date_updated": 1691969562,
+        "date_posted": 1691969562,
+        "url": "https://boards.greenhouse.io/celonis/jobs/5661553003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Celonis",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Freedom Consulting Group",
+        "id": "e0e32b60-1647-493b-afb9-9b049283b52c",
+        "title": "Reverse Engineer",
+        "active": true,
+        "date_updated": 1691911482,
+        "date_posted": 1691911482,
+        "url": "https://jobs.lever.co/choosefreedomit/6c91169a-f5f1-45af-b36f-b40c17de0a09/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Freedom-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AnaVation LLC",
+        "id": "b42b54b8-c48d-481b-beeb-eac19f61210d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1691824788,
+        "date_posted": 1691824788,
+        "url": "https://jobs.lever.co/anavationllc/31bfa921-0b7c-4d4c-ab6b-6d504b333196/apply",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AnaVation-LLC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Arrowstreet Capital",
+        "id": "d301b868-62db-4adf-9f68-b43640f3b0fa",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1691733564,
+        "date_posted": 1691733564,
+        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Researcher_R788",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hillel International",
+        "id": "53dd6677-29f2-4d8c-b277-a3f386aec61c",
+        "title": "Yale University Hillel Social Justice Springboard Fellow",
+        "active": true,
+        "date_updated": 1691652256,
+        "date_posted": 1691652256,
+        "url": "https://boards.greenhouse.io/hillel/jobs/4192239005",
+        "locations": [
+            "New Haven, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Hillel-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "fec6de60-7ad8-4006-8f98-0ce375d04de2",
+        "title": "Software Engineer \u2013 New Grad - Robot Systems",
+        "active": true,
+        "date_updated": 1691623759,
+        "date_posted": 1691623759,
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5709265003",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "5397a10b-c7d2-4f2e-9084-48738433d60d",
+        "title": "Robotics \u2013 New Grad - Localization Engineer",
+        "active": true,
+        "date_updated": 1691623756,
+        "date_posted": 1691623756,
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5709289003",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Color",
+        "id": "57aa53ed-3060-4b18-930f-0756067d9988",
+        "title": "New Grad Software Engineer",
+        "active": true,
+        "date_updated": 1691623309,
+        "date_posted": 1691623309,
+        "url": "https://jobs.lever.co/color/ec1d4828-0adc-4087-a746-13e83ef0b844/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Color",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CDC Foundation",
+        "id": "b59d5101-c35b-4a9e-9eaf-8b92d2f4e476",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1691540102,
+        "date_posted": 1691540102,
+        "url": "https://jobs.lever.co/cdcfoundation/4c56a33e-9b37-44dc-8542-d7a3f20d0c17/apply",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "WeRide",
+        "id": "bbe2f909-b51f-4c0e-ad96-0bea8d209cae",
+        "title": "Software Engineer \u2013 New Grads 2024",
+        "active": true,
+        "date_updated": 1691741157,
+        "date_posted": 1691451121,
+        "url": "https://jobs.lever.co/weride/6ee0e3cc-4f36-4224-a9b9-f5e79247ebef/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The RealReal",
+        "id": "41cc647d-125b-4cac-a546-eb2d4f8cc977",
+        "title": "Entry Level Production Assistant",
+        "active": true,
+        "date_updated": 1691219639,
+        "date_posted": 1691219639,
+        "url": "https://boards.greenhouse.io/therealreal/jobs/6838700002",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/The-RealReal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Woodard Curran",
+        "id": "7049319b-41ce-45e4-9e9d-591331324e98",
+        "title": "Entry-level Data Integration Specialist",
+        "active": true,
+        "date_updated": 1691601268,
+        "date_posted": 1691392727,
+        "url": "https://jobs.lever.co/woodardcurran/8367e9b7-7747-4193-b157-ecf28d7615af/apply",
+        "locations": [
+            "Helena, MT"
+        ],
+        "company_url": "https://simplify.jobs/c/Woodard-Curran",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1691421162,
+        "date_posted": 1691421162,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "0c371caf-e8f4-4052-bb57-cf6f1dc9555f",
+        "title": "Software Engineer \u2013 New Grad - 2024 Start",
+        "active": true,
+        "date_updated": 1691192203,
+        "date_posted": 1691192203,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866542002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "e3d21593-1e8b-450d-b6d6-003cb9b886d3",
+        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2024 Start",
+        "active": true,
+        "date_updated": 1691191948,
+        "date_posted": 1691191948,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866556002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
+        "title": "Software Engineer \u2013 New Grad - 2024 Start",
+        "active": true,
+        "date_updated": 1691191948,
+        "date_posted": 1691191948,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "79177934-9c7b-4e6e-b94b-28ce59d162c6",
+        "title": "Software Engineer \u2013 New Grad - 2024 Start",
+        "active": true,
+        "date_updated": 1691191948,
+        "date_posted": 1691191948,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6866540002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Databricks",
+        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
+        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2024 Start",
+        "active": true,
+        "date_updated": 1691191947,
+        "date_posted": 1691191947,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Voleon Group",
+        "id": "05818f02-8334-4c43-bc92-eb2b09113918",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1692032813,
+        "date_posted": 1691191171,
+        "url": "https://jobs.lever.co/voleon/ebd0306d-4353-4b10-be9d-479af8127617/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Voleon-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "8fef7a51-952a-44ff-a6c3-3e8bc7ff7106",
+        "title": "Software Engineer \u2013 Entry Level 2024 Chicago",
+        "active": true,
+        "date_updated": 1691600802,
+        "date_posted": 1691162359,
+        "url": "https://jobs.lever.co/belvederetrading/d9596403-6195-4af3-9e41-279d2dd6ef4e/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Belvedere Trading",
+        "id": "a805369d-5ef0-4ffc-bdeb-9a979ba422fd",
+        "title": "Junior Trader \u2013 Entry Level 2024",
+        "active": true,
+        "date_updated": 1691161773,
+        "date_posted": 1691161773,
+        "url": "https://jobs.lever.co/belvederetrading/2ecd0077-45fd-4da6-a806-f5d479ef4a3b/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Constellation Technologies",
+        "id": "5916c4fd-4ba7-4c6c-8ed8-7d6d367e10e3",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1691780975,
+        "date_posted": 1691047014,
+        "url": "https://jobs.lever.co/cti-md/a47adb19-51b6-4e24-95e2-c88e7db0e760/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "75d6696e-8328-40ee-b734-85217251ed40",
+        "title": "ASIC Clocks Engineer \u2013 New College Grad 2023",
+        "active": true,
+        "date_updated": 1691017832,
+        "date_posted": 1691017832,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Clocks-Engineer---New-College-Grad-2023_JR1965778",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "a69ead08-8e83-4859-9c5d-5e4e9f02c360",
+        "title": "New Grad 2023 - Software Engineer - Frontend",
+        "active": true,
+        "date_updated": 1691018817,
+        "date_posted": 1691018817,
+        "url": "https://jobs.ashbyhq.com/ramp/8f1c0c78-268d-46e0-8ed5-45b66eae61d8/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "eea914e6-6426-4883-8f62-6047886aa111",
+        "title": "New Grad 2023 - Software Engineer - Backend",
+        "active": true,
+        "date_updated": 1691018816,
+        "date_posted": 1691018816,
+        "url": "https://jobs.ashbyhq.com/ramp/6ddcd218-c384-4559-b697-64b32cf3f9a8/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Skyryse",
+        "id": "4dcae09a-9ec8-44a8-90ff-f1e3cd1362a5",
+        "title": "Model Based Design Software Engineer",
+        "active": true,
+        "date_updated": 1691018647,
+        "date_posted": 1691018647,
+        "url": "https://boards.greenhouse.io/skyryse/jobs/4300185",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Skyryse",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yassir",
+        "id": "91408924-5a47-4353-99c5-760093414fe6",
+        "title": "Backend Software Engineer",
+        "active": true,
+        "date_updated": 1690960694,
+        "date_posted": 1690960694,
+        "url": "https://jobs.lever.co/Yassir/010628b3-b386-45f4-b153-904c5e6d1ee6/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Yassir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Study.com",
+        "id": "bf3dc737-4043-40b5-ae20-f18ea69ca886",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1692055076,
+        "date_posted": 1689751218,
+        "url": "https://jobs.lever.co/Study.com/97db6059-b701-4fff-97d7-0e1a85d513c2/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/studydotcom",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity",
+        "id": "16f87bfb-f186-4a12-9bc5-9fd0eb33cb41",
+        "title": ".NET Software Engineer - Remote",
+        "active": true,
+        "date_updated": 1689750426,
+        "date_posted": 1689750426,
+        "url": "https://jobs.lever.co/relativity/afb66f69-1e4e-4ee8-946a-1250896fc6f3/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Intuition",
+        "id": "5f5ed10b-981f-4c68-a459-dfd14c8c6e27",
+        "title": "Product Application Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1689751286,
+        "date_posted": 1689751286,
+        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4045211005?gh_jid=4045211005",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Intuition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Squarepoint Capital",
+        "id": "50457779-ed00-4b75-b990-4d95248bc12d",
+        "title": "Financing Trader",
+        "active": true,
+        "date_updated": 1689751312,
+        "date_posted": 1689751312,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=5103949",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Squarepoint-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "1f4a37d6-99c3-4afb-a748-ea03ead2a7fa",
+        "title": "Software Engineer - Entry-Level - C++",
+        "active": true,
+        "date_updated": 1689750638,
+        "date_posted": 1689750638,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5136022",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "62e094fd-7b7e-4921-98a4-cfb108e8a7ad",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1689728334,
+        "date_posted": 1689728334,
+        "url": "https://boards.greenhouse.io/konradgroup/jobs/5599027003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "107434ad-93c2-46c4-b61a-8a84dd1838f4",
+        "title": "Associate Quality Engineer",
+        "active": true,
+        "date_updated": 1689750514,
+        "date_posted": 1689750514,
+        "url": "https://jobs.lever.co/veeva/aca8cd98-e800-45b9-94bc-cb2c3077b49d/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Pax8",
+        "id": "73ae7410-7c1e-4cbf-828b-06b1ca111bfb",
+        "title": "Manager of Software Engineering",
+        "active": true,
+        "date_updated": 1689898540,
+        "date_posted": 1689898540,
+        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4937155004",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Pax8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "5d8c687f-2612-48f7-89e0-197c3c940722",
+        "title": "Mobile Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1689750593,
+        "date_posted": 1689750593,
+        "url": "https://boards.greenhouse.io/konradgroup/jobs/5597818003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Fluence",
+        "id": "eea02855-e386-4d0d-bbfd-355f6b8aeafa",
+        "title": "Rotational Engineer",
+        "active": true,
+        "date_updated": 1690960557,
+        "date_posted": 1690960557,
+        "url": "https://jobs.lever.co/fluence/69029b6d-d05c-4393-b613-53a5d6a9e2f6/apply",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluence",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "d6ea87fe-7108-4b5c-8d15-7c4797e98f64",
+        "title": "System Verification Infrastructure Engineer \u2013 New College Grad 2023",
+        "active": true,
+        "date_updated": 1690499174,
+        "date_posted": 1690499174,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Verification-Infrastructure-Engineer---New-College-Grad-2023_JR1969409",
+        "locations": [
+            "Santa Clara, CA",
+            "Durham, NC",
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "7d1909cf-7bc0-424d-953b-eaa8044bff08",
+        "title": "Software Engineer: Early Career",
+        "active": true,
+        "date_updated": 1689750886,
+        "date_posted": 1689750886,
+        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6825791002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Basis Technologies",
+        "id": "eebbdf83-0365-44bf-a353-087d01c56e40",
+        "title": "Associate Systems Engineer",
+        "active": true,
+        "date_updated": 1689750599,
+        "date_posted": 1689750599,
+        "url": "https://jobs.lever.co/centro/cdafce34-df79-4d13-8aff-243be9788e11/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Basis-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "19901f3d-e33b-4b9c-b026-24847c329e1b",
+        "title": "Quantitative Research Analyst",
+        "active": true,
+        "date_updated": 1689729806,
+        "date_posted": 1689729806,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=16635",
+        "locations": [
+            "Las Vegas, NV",
+            "Miami, FL",
+            "Chicago, IL",
+            "NYC",
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Verdant Robotics",
+        "id": "cd13e752-0383-4ed9-9480-2954d834a6bf",
+        "title": "Machine Learning Devops Engineer",
+        "active": true,
+        "date_updated": 1691435666,
+        "date_posted": 1689751281,
+        "url": "https://jobs.lever.co/verdantrobotics/5ffd262f-ca16-4683-963b-933b6dab1467/apply",
+        "locations": [
+            "Hayward, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Verdant-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parallel",
+        "id": "ad8fcd60-733e-4e39-a465-f6e984473c02",
+        "title": "Supply Chain Analyst",
+        "active": true,
+        "date_updated": 1689750869,
+        "date_posted": 1689750869,
+        "url": "https://boards.greenhouse.io/paralleljobs/jobs/6816775002",
+        "locations": [
+            "Wimauma, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/b3bc9e4f-4d8b-401b-bc34-e8b6a82eba5d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "1b5c99e8-64fb-478c-9d7e-360988d449e6",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1690846059,
+        "date_posted": 1690846059,
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5695200003",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "0c598ba5-b421-4c91-b123-95ea8065564d",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1691601372,
+        "date_posted": 1689750705,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=6843329002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Forward",
+        "id": "8fb0df3d-44ec-40e4-9bd6-ce301ce4a27c",
+        "title": "Strategy and Operations \u2013 New Grad",
+        "active": true,
+        "date_updated": 1689750548,
+        "date_posted": 1689750548,
+        "url": "https://jobs.lever.co/goforward/8105398c-f878-48b3-85d2-3e8046b2754c/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Forward",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "9f337f46-e2b5-470a-a381-cd10e9dff3bc",
+        "title": "College Graduates - Full-Time - Junior Quant Trader - 2024",
+        "active": true,
+        "date_updated": 1689750706,
+        "date_posted": 1689750706,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5650790003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tower Research Capital",
+        "id": "d8dfe95d-eeed-46fe-bfd9-f5cc9fb25ff8",
+        "title": "Quantitative Trader - 2024",
+        "active": true,
+        "date_updated": 1689750705,
+        "date_posted": 1689750705,
+        "url": "https://www.tower-research.com/open-positions/?gh_jid=4361415",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "4cb5a1d0-158d-4ade-ac9d-adaf36a834c9",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1689751401,
+        "date_posted": 1689751401,
+        "url": "https://boards.greenhouse.io/konradgroup/jobs/5597791003",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "769eae64-9b5a-4cc7-9d7b-223be07b4abf",
+        "title": "Associate Quality Engineer",
+        "active": true,
+        "date_updated": 1689750515,
+        "date_posted": 1689750515,
+        "url": "https://jobs.lever.co/veeva/0ec5445b-fe7f-49e2-8039-b3eb385a21d8/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "0ed8b19a-cee7-4d7f-9b54-1c3863536432",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1692320323,
+        "date_posted": 1690988889,
+        "url": "https://jobs.lever.co/veeva/689b64ea-1518-483e-9c47-b41fd72fdcfa/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "3f29d010-cc7e-46d3-809a-80b161151483",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1691082735,
+        "date_posted": 1690988895,
+        "url": "https://jobs.lever.co/veeva/f235ed8b-0972-4248-9d57-2d500aa094f5/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "0fe9a24a-17f5-4631-9433-bf829226d649",
+        "title": "Associate Mobile Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1690988898,
+        "date_posted": 1690988898,
+        "url": "https://jobs.lever.co/veeva/b72a9648-993e-42dc-83ca-5fd598494008/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Interactive Brokers",
+        "id": "900a5668-2bc6-466e-be0d-d77ca0f4b025",
+        "title": "Application Programmer",
+        "active": true,
+        "date_updated": 1689750675,
+        "date_posted": 1689750675,
+        "url": "https://boards.greenhouse.io/ibkr/jobs/4243486002",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/IBKR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "9f182257-f65b-429e-96f6-c832e6bf5a01",
+        "title": "Associate Performance Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1690988901,
+        "date_posted": 1690988901,
+        "url": "https://jobs.lever.co/veeva/8a2abfcb-09b8-4b1c-b444-949000c19529/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Canonical",
+        "id": "94832aed-3fbf-4054-9afc-24df644ac445",
+        "title": "Cloud Field Engineer \u2013 Entry Level - Americas - Remote",
+        "active": true,
+        "date_updated": 1690960489,
+        "date_posted": 1690960489,
+        "url": "https://boards.greenhouse.io/canonical/jobs/5130154",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aquatic Capital Management",
+        "id": "fe91a8c6-e8e8-498c-839c-daf7e881bb4a",
+        "title": "Quantitative Researcher: Early Career",
+        "active": true,
+        "date_updated": 1689750885,
+        "date_posted": 1689750885,
+        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/6825774002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "24009aa0-9086-4445-aad7-96040de248de",
+        "title": "Associate Software Engineer \u2013 Master\u2019s 2024 Graduates in Computer Science",
+        "active": true,
+        "date_updated": 1691082998,
+        "date_posted": 1690988903,
+        "url": "https://jobs.lever.co/veeva/3215dfab-f16e-4bd1-bc82-a24cf341d0e9/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "9cedbafb-69e9-4cfa-939f-06895228b980",
+        "title": "Associate Mobile Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1690988899,
+        "date_posted": 1690988899,
+        "url": "https://jobs.lever.co/veeva/36cc1524-471d-4234-a1a8-013c378be061/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "ecc54102-e9cb-415b-8bfc-6e8cd446a9f5",
+        "title": "Associate Software Engineer \u2013 Master\u2019s 2024 Graduates in Computer Science",
+        "active": true,
+        "date_updated": 1691082747,
+        "date_posted": 1690988895,
+        "url": "https://jobs.lever.co/veeva/cb4aa107-6140-4aba-8080-b379375d210e/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "IXL Learning",
+        "id": "fef9688a-4cce-4f29-bab2-d65e51b14d1c",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1691538451,
+        "date_posted": 1689728447,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=6843341002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "cd406d71-5527-45d8-bead-1635c7fdd39c",
+        "title": "Associate Performance Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1690989550,
+        "date_posted": 1690989550,
+        "url": "https://jobs.lever.co/veeva/26456d51-8a59-4f40-b21c-578895ca04c3/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "39f09103-01d5-4bb5-9157-8defbbff3ff2",
+        "title": "Associate Software Engineer \u2013 Master\u2019s 2024 Graduates in Computer Science",
+        "active": true,
+        "date_updated": 1691082768,
+        "date_posted": 1690988894,
+        "url": "https://jobs.lever.co/veeva/5ada1cf4-548f-4a78-a312-cdb61853ec31/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "6d93a0fb-29ab-4fa9-98de-4207b7478d00",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1691082803,
+        "date_posted": 1690988895,
+        "url": "https://jobs.lever.co/veeva/10ac573d-64da-4a28-8cc2-05167e0d6789/apply",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Taboola",
+        "id": "0176914e-4c16-4f87-ba6b-22b719279b34",
+        "title": "Solutions Engineer",
+        "active": true,
+        "date_updated": 1689865724,
+        "date_posted": 1689865724,
+        "url": "https://www.taboola.com/careers/job/5196081?gh_jid=5196081",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Taboola",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Alarm.com",
+        "id": "be993e00-59c2-444d-a6f6-cfc86a7d3f58",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1690787747,
+        "date_posted": 1690787747,
+        "url": "https://boards.greenhouse.io/alarmcom/jobs/6815807002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alarm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "99a5345c-0dc1-4719-af78-03a0bd03533e",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1691082726,
+        "date_posted": 1690988906,
+        "url": "https://jobs.lever.co/veeva/ef05bae6-d743-4a19-ac00-3ad9881cac2e/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yodlee",
+        "id": "8680d523-a745-455c-976d-8fb779f106ef",
+        "title": "Client Service Associate - Tamarac Trading",
+        "active": true,
+        "date_updated": 1690845562,
+        "date_posted": 1690845562,
+        "url": "https://jobs.jobvite.com/yodlee/job/oqUTnfwk?nl=1&nl=1&fr=false",
+        "locations": [
+            "Raleigh, NC",
+            "Berwyn, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Yodlee",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "14a0ffba-913d-43b7-8059-f77660e4d8df",
+        "title": "Associate Software Engineer \u2013 Master\u2019s 2024 Graduates in Computer Science",
+        "active": true,
+        "date_updated": 1691082762,
+        "date_posted": 1690988888,
+        "url": "https://jobs.lever.co/veeva/67720ee3-fa21-49cc-83f0-5bd60e972e85/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "b10204ef-a468-4390-b964-58c945f9cdcb",
+        "title": "Associate Software Engineer \u2013 Master\u2019s 2024 Graduates in Computer Science",
+        "active": true,
+        "date_updated": 1691082752,
+        "date_posted": 1690988895,
+        "url": "https://jobs.lever.co/veeva/47f3d956-a14f-48eb-bb38-2ed4c5bfbc0e/apply",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Akuna Capital",
+        "id": "6e972d61-5619-4721-a109-80d0a1805588",
+        "title": "Performance Engineer - Entry-Level",
+        "active": true,
+        "date_updated": 1689750637,
+        "date_posted": 1689750637,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=5083320",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry",
+        "id": "a0fe39ae-d104-45f2-b0ff-20b99cf20cee",
+        "title": "Software Engineer \u2013 New Grad - 2024",
+        "active": true,
+        "date_updated": 1691774012,
+        "date_posted": 1690932152,
+        "url": "https://boards.greenhouse.io/sentry/jobs/5226227",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yassir",
+        "id": "47e3203f-d811-42a2-b395-7f23beb827ca",
+        "title": "Backend Software Engineer",
+        "active": true,
+        "date_updated": 1690960496,
+        "date_posted": 1690960496,
+        "url": "https://jobs.lever.co/Yassir/13c90265-5c71-492d-a570-9c3af60282b0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Yassir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wolverine Trading",
+        "id": "41fc7222-635e-48c5-ae8f-1fff0030f8cb",
+        "title": "Entry-Level Trader",
+        "active": true,
+        "date_updated": 1690909657,
+        "date_posted": 1689750892,
+        "url": "https://jobs.lever.co/wolve/1ef76232-0c1b-4c1f-b446-d25d0d97708f/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/wolverine-trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "0c466f04-7c95-4228-96a8-fe26db483ad7",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1691082813,
+        "date_posted": 1690988894,
+        "url": "https://jobs.lever.co/veeva/a5a4f654-2c50-49c4-a338-ed18ca3c6715/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "3e569289-bf9b-427c-ac73-6152ef7a97e9",
+        "title": "Associate Performance Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1690988901,
+        "date_posted": 1690988901,
+        "url": "https://jobs.lever.co/veeva/ad20a133-f6ac-4545-b758-a1313abdb0fa/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "63efec2b-dc05-429d-93ef-36ff6263a532",
+        "title": "Associate Software Engineer \u2013 Master\u2019s 2024 Graduates in Computer Science",
+        "active": true,
+        "date_updated": 1691082706,
+        "date_posted": 1690989558,
+        "url": "https://jobs.lever.co/veeva/7a63af33-1a85-4223-9a22-fd2ed19c4759/apply",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gecko Robotics",
+        "id": "59b30640-fb08-45c7-a842-90a1d3da770d",
+        "title": "Forward Deployed Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1691017972,
+        "date_posted": 1690845752,
+        "url": "https://www.geckorobotics.com/careers/apply?gh_jid=5698627003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Harmony",
+        "id": "626e92e4-f7bc-4395-8672-043964f5ce95",
+        "title": "AI Backend Engineer",
+        "active": true,
+        "date_updated": 1689728548,
+        "date_posted": 1689728548,
+        "url": "https://jobs.lever.co/harmony/80681513-b887-4a9b-b725-6bba0e7e4e9f/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harmony",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sentry",
+        "id": "1506ff8e-61d2-40a6-9f94-cdd72f4f9468",
+        "title": "Software Engineer \u2013 New Grad - 2024",
+        "active": true,
+        "date_updated": 1691774121,
+        "date_posted": 1690932151,
+        "url": "https://boards.greenhouse.io/sentry/jobs/5193895",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Yassir",
+        "id": "c52d4c1c-df8d-4ac0-9859-bae2096e5f09",
+        "title": "Backend Software Engineer",
+        "active": true,
+        "date_updated": 1690960498,
+        "date_posted": 1690960498,
+        "url": "https://jobs.lever.co/Yassir/81cd65c0-f7bb-40a2-9a7a-a377db85bf7f/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Yassir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Veeva Systems",
+        "id": "2ff9afc8-85f9-4111-ae16-3b9ef227a532",
+        "title": "Associate Software Engineer \u2013 Seeking 2024 Grads",
+        "active": true,
+        "date_updated": 1691082788,
+        "date_posted": 1690989563,
+        "url": "https://jobs.lever.co/veeva/57ba30e3-cf53-4fde-94d3-41d1a642494a/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
+        "active": true,
+        "date_updated": 1691428046,
+        "date_posted": 1690903192,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Interactive Brokers",
+        "id": "62660f4a-8e68-4d84-b573-e2ba403e7f2a",
+        "title": "Finance Entry-Level Career Opportunities: Institutional Services",
+        "active": true,
+        "date_updated": 1689750670,
+        "date_posted": 1689750670,
+        "url": "https://boards.greenhouse.io/ibkr/jobs/6104610002",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/IBKR",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Old Mission",
+        "id": "42b9157f-379f-45da-914f-2603072985dc",
+        "title": "College Graduates - Full-Time - Junior Software Engineer - 2024",
+        "active": true,
+        "date_updated": 1689750702,
+        "date_posted": 1689750702,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=5643831003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "KoBold Metals",
+        "id": "3797b7cc-deea-4d23-b709-6833a135d1d8",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1689751101,
+        "date_posted": 1689751101,
+        "url": "https://boards.greenhouse.io/koboldmetals/jobs/4283639005",
+        "locations": [
+            "Lusaka, Zambia"
+        ],
+        "company_url": "https://simplify.jobs/c/KoBold-Metals",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Point72",
+        "id": "95aecc3f-675c-4152-8ce7-1da05cf5b4f3",
+        "title": "Data Scientist - Proprietary Research",
+        "active": true,
+        "date_updated": 1689750728,
+        "date_posted": 1689750728,
+        "url": "https://boards.greenhouse.io/point72/jobs/4644238002",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Point72",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Konrad Group",
+        "id": "2d49f798-35de-4246-8dfa-e3444d594185",
+        "title": "Mobile Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1689750593,
+        "date_posted": 1689750593,
+        "url": "https://boards.greenhouse.io/konradgroup/jobs/5599054003",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Palantir",
+        "id": "629d4b11-0984-442c-b615-51b48771615b",
+        "title": "Forward Deployed Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1691428023,
+        "date_posted": 1690932001,
+        "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    }
+]
