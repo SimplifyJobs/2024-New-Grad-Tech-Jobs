@@ -37,7 +37,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant jobs for 
 
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **TEST** | Software Engineer Intern | San Franciso, CA</br>Austin, TX | <a href="https://example.com/link/to/posting/whoa?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 18 |
+| **TEST** | Software Engineer Intern | San Franciso, CA</br>Austin, TX | 🔒 | Aug 18 |
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
 [⬆️ Back to Top ⬆️](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles#the-list-)
