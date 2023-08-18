@@ -1,4 +1,4 @@
-# 2024 New Grad Tech Internships by Simplify
+# 2024 New Grad Tech Roles by Simplify
 
 Use this repo to share and keep track of software, tech, CS, PM, quant jobs for new grads. The list is maintained by the [Simplify](https://simplify.jobs/)!
 
@@ -34,9 +34,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant jobs for 
 
  - 🛂 - Does NOT offer Sponsorship
  - 🇺🇸 - Requires U.S. Citizenship
- - 🔒 - Internship application is closed
-
-> This README file is for **2024 summer internships only**. For off-season internships, please see the [Off-Season 2024 README](https://github.com/pittcsc/2024-New-Grad-Tech-Roles/blob/dev/README-Off-Season.md).
+ - 🔒 - Job application is closed
 
 [⬇️ Jump to bottom ⬇️](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->

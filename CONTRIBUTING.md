@@ -31,22 +31,7 @@ To edit a job posting (changing name, setting as inactive, removing, etc.), foll
 2) Create a new issue [here](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose).
 3) Select the **Edit Role** issue template.
 4) Fill in the url to the **link** input.
-> This is how we ensure your edit affects the correct internship
-5) Leave every other input blank except for whichever fields you would like to update or change about the internship.
+> This is how we ensure your edit affects the correct job posting
+5) Leave every other input blank except for whichever fields you would like to update or change about the role.
 6) If it is not obvious why you are making these edits, please specify why in the reason box at the bottom of the form.
 7) Hit submit. A member of our team will review your revision and approve it shortly.
-
-## Automatic README.md Updates
-A script will automatically add new contributions as well as new internships found by [Simplify](https://simplify.jobs) to the appropriate README. The row will look something like this:
-```md
-| Company | Role | Location | Application | Simplify Application |
-| --- | --- | --- | :---: | :---: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
-```
-
-When rendered, it will look like:
-| Company | Role | Location | Application | Simplify Application |
-| --- | --- | --- | :---: | :---: |
-| **[Example Company]()** | Software Engineering Internship Example | San Francisco, CA | <img src="https://i.imgur.com/5JF7mJI.png" width="150" alt="Apply"> |  |
-
-
