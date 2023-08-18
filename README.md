@@ -1,16 +1,12 @@
-# Summer 2024 Tech Internships by Pitt CSC & Simplify
+# 2024 New Grad Tech Internships by Simplify
 
-We're back! Use this repo to share and keep track of software, tech, CS, PM, quant internships for **Summer 2024**. The list is maintained collaboratively by the [Pitt Computer Science Club](https://pittcsc.org/) and [Simplify](https://simplify.jobs/)!
+Use this repo to share and keep track of software, tech, CS, PM, quant jobs for new grads. The list is maintained by the [Simplify](https://simplify.jobs/)!
 
-
-> **Update (Aug 10, 2023)** :partying_face:
-> - Order of postings is now newest to oldest
-> - Sponsorship Information is now shown using emojis (see legend)
+> **Launch (Aug 17, 2023)** :partying_face:
+> - You guys asked for it, and now it's here!
 
 
 :warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
-
-🧠 For valuable tips on navigating the internship process, be sure to check out our guide [Zero to Offer](https://www.pittcs.wiki/zero-to-offer) 🧠.
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/2024-New-Grad-Tech-Roles/blob/dev/CONTRIBUTING.md)!** 🙏
 
@@ -30,17 +26,6 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 		</a>
 		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
 	</p>
-</div>
-
-
-
-<div align="center">
-  <h3>
-    Thanks for a great three years 💖💖
-  </h3>
-  <p>
-    <img src="https://api.star-history.com/svg?repos=pittcsc/2024-New-Grad-Tech-Roles&type=Date" width="500" alt="Star History">
-  </p>
 </div>
 
 ---
