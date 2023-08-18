@@ -2,7 +2,7 @@
 
 Use this repo to share and keep track of software, tech, CS, PM, quant jobs for new grads.
 
-:warning: Please note that this repository is exclusively for internships/co-ops in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this repository is exclusively for tech roles in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose)! See the contribution guidelines [here](https://github.com/pittcsc/2024-New-Grad-Tech-Roles/blob/dev/CONTRIBUTING.md)!** 🙏
 
