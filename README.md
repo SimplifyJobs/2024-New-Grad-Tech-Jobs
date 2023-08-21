@@ -10,7 +10,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant jobs for 
 <div align="center">
 	<p>
 		<a href="https://simplify.jobs/?utm_source=GHList&utm_medium=banner">
-			<b>Applying to internships?</b>
+			<b>Applying to jobs?</b>
 			<br>
 			Autofill all your applications in a single click.
 			<br>
@@ -20,7 +20,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant jobs for 
         </a>
 			</div>
 		</a>
-		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill internship applications on millions of sites.</i></sub>
+		<sub><i>Stop manually re-entering your information. Simplify’s extension helps you autofill job applications on millions of sites.</i></sub>
 	</p>
 </div>
 
