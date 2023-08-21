@@ -614,14 +614,14 @@
         "id": "16f87bfb-f186-4a12-9bc5-9fd0eb33cb41",
         "title": ".NET Software Engineer - Remote",
         "active": true,
-        "date_updated": 1689750426,
+        "date_updated": 1692646397,
         "date_posted": 1689750426,
         "url": "https://jobs.lever.co/relativity/afb66f69-1e4e-4ee8-946a-1250896fc6f3/apply",
         "locations": [
             "Remote"
         ],
         "company_url": "https://simplify.jobs/c/Relativity",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
