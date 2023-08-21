@@ -10,9 +10,10 @@ def main():
     listings = util.getListingsFromJSON()
 
     util.checkSchema(listings)
-    util.sortListings(listings)
-
-    util.embedTable(listings)
+    filtered = util.filterListings(listings)
+    
+    util.sortListings(filtered)
+    util.embedTable(filtered)
 
     util.setOutput("commit_message", "Updating README at " + datetime.now().strftime("%B %d, %Y %H:%M:%S"))
 
