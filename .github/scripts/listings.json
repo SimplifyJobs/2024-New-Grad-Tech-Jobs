@@ -710,14 +710,14 @@
         "id": "73ae7410-7c1e-4cbf-828b-06b1ca111bfb",
         "title": "Manager of Software Engineering",
         "active": true,
-        "date_updated": 1689898540,
+        "date_updated": 1692659560,
         "date_posted": 1689898540,
         "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4937155004",
         "locations": [
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Pax8",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
