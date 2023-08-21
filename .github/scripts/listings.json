@@ -230,14 +230,14 @@
         "id": "53dd6677-29f2-4d8c-b277-a3f386aec61c",
         "title": "Yale University Hillel Social Justice Springboard Fellow",
         "active": true,
-        "date_updated": 1691652256,
+        "date_updated": 1692639679,
         "date_posted": 1691652256,
         "url": "https://boards.greenhouse.io/hillel/jobs/4192239005",
         "locations": [
             "New Haven, CT"
         ],
         "company_url": "https://simplify.jobs/c/Hillel-International",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
