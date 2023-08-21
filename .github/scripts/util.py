@@ -70,7 +70,8 @@ def create_md_table(listings):
         # table += f"| **{company}** | {location} | {position} | {link} | {status} | {datePosted} |\n"
     return table
 
-
+def filterListings(listings):
+    return [listing for listing in listings if listing["is_visible"]]
 
 def getListingsFromJSON(filename=".github/scripts/listings.json"):
     with open(filename) as f:
