@@ -9,7 +9,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 ---
 
 ### :eyes: Looking for Summer 2024 Tech Internships?
-- 🥳 We're back! Check it out here: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
+- 🥳 We're back! Check it out here: [Summer-2024-Tech-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 - ✨ Check it out for summer software, tech, CS, PM, and quant internships.
 
 ---
