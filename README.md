@@ -1,10 +1,16 @@
-# 2024 New Grad Tech Roles by Simplify
+# 2024 New Grad Tech Jobs by Simplify
 
-Use this repo to share and keep track of software, tech, CS, PM, quant jobs for new grads.
+Use this repo to share and keep track of entry-level software, tech, CS, PM, quant jobs for new graduates.
 
-:warning: Please note that this repository is exclusively for tech roles in the United States, Canada, or Remote positions :earth_americas:
+:warning: Please note that this repository is exclusively for roles in the United States, Canada, or Remote positions :earth_americas:
 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
+
+---
+
+### :eyes: Looking for Summer 2024 Tech Internships?
+- 🥳 We're back! Check it out here: [2024-New-Grad-Tech-Roles](https://github.com/SimplifyJobs/2024-New-Grad-Tech-Roles)
+- ✨ Check it out for summer software, tech, CS, PM, and quant internships.
 
 ---
 <div align="center">
