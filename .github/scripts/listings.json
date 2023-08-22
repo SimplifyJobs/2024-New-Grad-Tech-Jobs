@@ -1648,7 +1648,7 @@
         "company_name": "Zscaler",
         "id": "059251b9-8473-4724-a947-39f15bfa5aae",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1692659567,
         "date_posted": 1692659567,
         "url": "https://jobs.smartrecruiters.com/Zscaler/743999925712408",
@@ -1929,6 +1929,22 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Uncountable",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ready",
+        "id": "66847ad9-d740-4398-b0f5-99b41a36b8ed",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1692688449,
+        "date_posted": 1692688449,
+        "url": "https://jobs.ashbyhq.com/ready/4bf2a90b-6929-4c37-b760-c6ca3baaa20b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Ready-Net",
         "is_visible": true,
         "sponsorship": "Other"
     }
