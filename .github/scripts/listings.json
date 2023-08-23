@@ -325,7 +325,7 @@
         "company_name": "The RealReal",
         "id": "41cc647d-125b-4cac-a546-eb2d4f8cc977",
         "title": "Entry Level Production Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1692640161,
         "date_posted": 1691219639,
         "url": "https://boards.greenhouse.io/therealreal/jobs/6838700002",
@@ -645,7 +645,7 @@
         "company_name": "Squarepoint Capital",
         "id": "50457779-ed00-4b75-b990-4d95248bc12d",
         "title": "Financing Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1689751312,
         "date_posted": 1689751312,
         "url": "https://boards.greenhouse.io/embed/job_app?token=5103949",
@@ -1195,7 +1195,7 @@
         "company_name": "Taboola",
         "id": "0176914e-4c16-4f87-ba6b-22b719279b34",
         "title": "Solutions Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1689865724,
         "date_posted": 1689865724,
         "url": "https://www.taboola.com/careers/job/5196081?gh_jid=5196081",
@@ -1961,6 +1961,87 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/CDC-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "5f60f36a-5c6e-455b-9c98-bf5d2629720c",
+        "title": "Semiconductor Safety Engineer \u2013 New College Grad 2023",
+        "active": true,
+        "date_updated": 1692746794,
+        "date_posted": 1692746794,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Semiconductor-Safety-Engineer---New-College-Grad-2023_JR1969405",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "614bd3d7-ab05-48e3-8028-576e487abf70",
+        "title": "Machine Learning Research Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1692746134,
+        "date_posted": 1692746134,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4305880005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "7eadd557-f287-4a42-9732-d29ead9d82a9",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1692746134,
+        "date_posted": 1692746134,
+        "url": "https://boards.greenhouse.io/scaleai/jobs/4305866005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Enable",
+        "id": "ae7aa9be-10dc-44bc-9e8a-92f7b1464ee7",
+        "title": "Entry-Level Implementation Analyst",
+        "active": true,
+        "date_updated": 1692746042,
+        "date_posted": 1692746042,
+        "url": "https://jobs.lever.co/enable/3b878a74-58ed-4d6f-a55b-78aaa27a5af7/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enable",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Okcoin",
+        "id": "9933df02-d276-4b00-9747-a49938ca4dda",
+        "title": "Software Engineer \u2013 New Grad - Backend - Frontend - Mobile",
+        "active": true,
+        "date_updated": 1692745866,
+        "date_posted": 1692745866,
+        "url": "https://boards.greenhouse.io/okcoin/jobs/5721854003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Okcoin",
         "is_visible": true,
         "sponsorship": "Other"
     }
