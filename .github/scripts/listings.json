@@ -2076,5 +2076,69 @@
         "company_url": "https://simplify.jobs/c/OKX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "c64aa23c-d6a8-4d93-bb7b-f87943779cda",
+        "title": "Software Engineer \u2013 New Grad - Seattle - WA",
+        "active": true,
+        "date_updated": 1692918573,
+        "date_posted": 1692918573,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5317704?gh_jid=5317704",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Anyscale",
+        "id": "2b2c7e7c-7769-4e4e-a94d-01615c2c1559",
+        "title": "Software Engineer \u2013 New Grad 2024",
+        "active": true,
+        "date_updated": 1692918496,
+        "date_posted": 1692918496,
+        "url": "https://jobs.lever.co/anyscale/2888fb5f-3489-46c0-b776-2a02004ce21b/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anyscale",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "2adca490-9850-45e8-b06b-c31f6bd2aa98",
+        "title": "Software Engineer \u2013 New Grad - Provo - UT",
+        "active": true,
+        "date_updated": 1692918573,
+        "date_posted": 1692918573,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5317685?gh_jid=5317685",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Qualtrics",
+        "id": "111a8afe-d8e8-4517-8ede-d39790c67f36",
+        "title": "Software Engineer \u2013 New Grad - Reston - VA",
+        "active": true,
+        "date_updated": 1692918571,
+        "date_posted": 1692918571,
+        "url": "https://www.qualtrics.com/careers/us/en/job/5317695?gh_jid=5317695",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
