@@ -165,7 +165,7 @@
         "company_name": "Celonis",
         "id": "7bdf92d6-2eac-4562-89a8-9d1f22f8d777",
         "title": "Associate Value Engineer - Orbit Program",
-        "active": true,
+        "active": false,
         "date_updated": 1691969562,
         "date_posted": 1691969562,
         "url": "https://boards.greenhouse.io/celonis/jobs/5661553003",
@@ -677,7 +677,7 @@
         "company_name": "Konrad Group",
         "id": "62e094fd-7b7e-4921-98a4-cfb108e8a7ad",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1689728334,
         "date_posted": 1689728334,
         "url": "https://boards.greenhouse.io/konradgroup/jobs/5599027003",
@@ -725,7 +725,7 @@
         "company_name": "Konrad Group",
         "id": "5d8c687f-2612-48f7-89e0-197c3c940722",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1689750593,
         "date_posted": 1689750593,
         "url": "https://boards.greenhouse.io/konradgroup/jobs/5597818003",
@@ -843,7 +843,7 @@
         "company_name": "Parallel",
         "id": "ad8fcd60-733e-4e39-a465-f6e984473c02",
         "title": "Supply Chain Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1692640802,
         "date_posted": 1689750869,
         "url": "https://boards.greenhouse.io/paralleljobs/jobs/6816775002",
@@ -939,7 +939,7 @@
         "company_name": "Konrad Group",
         "id": "4cb5a1d0-158d-4ade-ac9d-adaf36a834c9",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1689751401,
         "date_posted": 1689751401,
         "url": "https://boards.greenhouse.io/konradgroup/jobs/5597791003",
@@ -1564,7 +1564,7 @@
         "company_name": "Konrad Group",
         "id": "2d49f798-35de-4246-8dfa-e3444d594185",
         "title": "Mobile Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1689750593,
         "date_posted": 1689750593,
         "url": "https://boards.greenhouse.io/konradgroup/jobs/5599054003",
@@ -1744,7 +1744,7 @@
         "company_name": "Celonis",
         "id": "d55f6a55-da3d-4ed3-956e-5666122d95cf",
         "title": "Associate Value Engineer - Orbit",
-        "active": true,
+        "active": false,
         "date_updated": 1691969562,
         "date_posted": 1691969562,
         "url": "https://boards.greenhouse.io/celonis/jobs/5518245003",
@@ -2138,6 +2138,103 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Turbo.net",
+        "id": "4230fa0e-b911-45ee-a6d7-c8d9e6d50ac3",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1692948564,
+        "date_posted": 1692948564,
+        "url": "https://boards.greenhouse.io/turbo/jobs/4115212005",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TurboNet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hitachi Vantara",
+        "id": "0bf68e1e-0481-4ad5-b498-e75b8f3da9f3",
+        "title": "Software Developer in Test - Sdet",
+        "active": true,
+        "date_updated": 1692948023,
+        "date_posted": 1692948023,
+        "url": "https://www.hitachivantara.com/en-us/company/careers/job-details.6854677002.html?gh_jid=6854677002",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hitachi Vantara",
+        "id": "2532e998-f7f3-45d7-8572-798a883f89ec",
+        "title": "Software Development Engineer - Full Stack",
+        "active": true,
+        "date_updated": 1692948017,
+        "date_posted": 1692948017,
+        "url": "https://www.hitachivantara.com/en-us/company/careers/job-details.6859287002.html?gh_jid=6859287002",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hitachi Vantara",
+        "id": "65c6dc1c-caef-4695-9c2f-cd387c380f37",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1692947952,
+        "date_posted": 1692947952,
+        "url": "https://www.hitachivantara.com/en-us/company/careers/job-details.6755649002.html?gh_jid=6755649002",
+        "locations": [
+            "Wimborne Minster, Wimborne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi-Vantara",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "14e32997-f9c8-451b-9623-b1ad53d6a399",
+        "title": "Data Scientist \u2013 Early Career - 2024",
+        "active": true,
+        "date_updated": 1692947680,
+        "date_posted": 1692947680,
+        "url": "https://boards.greenhouse.io/figma/jobs/4945812004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hillel International",
+        "id": "e1a258c0-c924-46e5-b4d8-491f645f6d08",
+        "title": "Hillel at the University of Wisconsin Springboard Fellow",
+        "active": true,
+        "date_updated": 1691652254,
+        "date_posted": 1691652254,
+        "url": "https://boards.greenhouse.io/hillel/jobs/4191778005",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hillel-International",
         "is_visible": true,
         "sponsorship": "Other"
     }
