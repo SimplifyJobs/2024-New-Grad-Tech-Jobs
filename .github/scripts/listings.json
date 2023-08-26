@@ -533,7 +533,7 @@
         "company_name": "Ramp",
         "id": "a69ead08-8e83-4859-9c5d-5e4e9f02c360",
         "title": "New Grad 2023 - Software Engineer - Frontend",
-        "active": true,
+        "active": false,
         "date_updated": 1691018817,
         "date_posted": 1691018817,
         "url": "https://jobs.ashbyhq.com/ramp/8f1c0c78-268d-46e0-8ed5-45b66eae61d8/application",
@@ -549,7 +549,7 @@
         "company_name": "Ramp",
         "id": "eea914e6-6426-4883-8f62-6047886aa111",
         "title": "New Grad 2023 - Software Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1691018816,
         "date_posted": 1691018816,
         "url": "https://jobs.ashbyhq.com/ramp/6ddcd218-c384-4559-b697-64b32cf3f9a8/application",
@@ -1292,7 +1292,7 @@
         "company_name": "Akuna Capital",
         "id": "6e972d61-5619-4721-a109-80d0a1805588",
         "title": "Performance Engineer - Entry-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1689750637,
         "date_posted": 1689750637,
         "url": "https://www.akunacapital.com/job-details?gh_jid=5083320",
@@ -2235,6 +2235,54 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/Hillel-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Relativity Space",
+        "id": "8c581cd0-cf8e-459e-9bb1-2cf560c8509e",
+        "title": "Materials and Process Engineer II",
+        "active": true,
+        "date_updated": 1693005177,
+        "date_posted": 1693005177,
+        "url": "https://boards.greenhouse.io/relativity/jobs/6904969002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "a40efd31-2503-4159-9242-85a74cbfb6a6",
+        "title": "Software Engineer \u2013 New College Grad 2024 - Deep Learning Cudnn",
+        "active": true,
+        "date_updated": 1693004680,
+        "date_posted": 1693004680,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--Deep-Learning-cuDNN---New-College-Grad-2024_JR1971497",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Businessolver",
+        "id": "f68bf41f-46d0-4fc3-bfb4-358ac332b964",
+        "title": "Java Engineer I - Work Remotely within the USA",
+        "active": true,
+        "date_updated": 1692983608,
+        "date_posted": 1692918925,
+        "url": "https://www.businessolver.com/careers/openings/?gh_jid=5314340",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Businessolver",
         "is_visible": true,
         "sponsorship": "Other"
     }
