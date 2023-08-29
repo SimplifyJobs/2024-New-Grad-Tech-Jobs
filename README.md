@@ -116,7 +116,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 | **Constellation Technologies** | Software Engineer 0 | Odenton, MD | 🔒 | Aug 03 |
 | **Ramp** | New Grad 2023 - Software Engineer - Frontend | NYC | 🔒 | Aug 02 |
 | **Ramp** | New Grad 2023 - Software Engineer - Backend | NYC | 🔒 | Aug 02 |
-| **[Skyryse](https://simplify.jobs/c/Skyryse)** | Model Based Design Software Engineer | El Segundo, CA | <a href="https://boards.greenhouse.io/skyryse/jobs/4300185?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/4dcae09a-9ec8-44a8-90ff-f1e3cd1362a5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 02 |
+| **Skyryse** | Model Based Design Software Engineer | El Segundo, CA | 🔒 | Aug 02 |
 | **[NVIDIA](https://simplify.jobs/c/NVIDIA)** | ASIC Clocks Engineer – New College Grad 2023 | Santa Clara, CA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/ASIC-Clocks-Engineer---New-College-Grad-2023_JR1965778?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a> <a href="https://simplify.jobs/p/75d6696e-8328-40ee-b734-85217251ed40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="30" alt="Simplify"></a> | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Seeking 2024 Grads | Raleigh, NC | 🔒 | Aug 02 |
 | **Veeva Systems** | Associate Software Engineer – Master’s 2024 Graduates in Computer Science | Cambridge, MA | 🔒 | Aug 02 |
