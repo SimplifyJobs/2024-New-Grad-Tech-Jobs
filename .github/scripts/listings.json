@@ -149,7 +149,7 @@
         "company_name": "Kitware",
         "id": "7c2573a4-127c-4942-a724-7ae7d174bf2a",
         "title": "OSTP Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1692054768,
         "date_posted": 1692054768,
         "url": "https://jobs.lever.co/kitware/f385e827-dd18-4598-830e-05ce62525a64/apply",
@@ -1243,7 +1243,7 @@
         "company_name": "Yodlee",
         "id": "8680d523-a745-455c-976d-8fb779f106ef",
         "title": "Client Service Associate - Tamarac Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1692659510,
         "date_posted": 1690845562,
         "url": "https://jobs.jobvite.com/yodlee/job/oqUTnfwk?nl=1&nl=1&fr=false",
@@ -2050,7 +2050,7 @@
         "company_name": "Benefitfocus",
         "id": "76e01e5e-9e8b-4caf-97f2-6c039ef02bdd",
         "title": "Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1692803785,
         "date_posted": 1692803785,
         "url": "https://jobs.jobvite.com/benefitfocus/job/oa39ofwu?nl=1&nl=1&fr=false",
@@ -2283,6 +2283,70 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Businessolver",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "dfdfba20-5c7d-4d9b-8d05-a5d39b865ef4",
+        "title": "Algorithm Developer \u2013 2024 Grads",
+        "active": true,
+        "date_updated": 1693264955,
+        "date_posted": 1693264955,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271551",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "94668134-72d5-4923-b457-4fb4993c5f43",
+        "title": "Software Engineer \u2013 2024 Grads - C++",
+        "active": true,
+        "date_updated": 1693264976,
+        "date_posted": 1693264976,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5271700",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Hudson River Trading",
+        "id": "69700390-290c-4258-9911-b0d2d0b62ee2",
+        "title": "Software Engineer \u2013 2024 Grads - C++",
+        "active": true,
+        "date_updated": 1693264976,
+        "date_posted": 1693264976,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=5325331",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Netflix",
+        "id": "37b41e76-5722-4870-88dc-1db8bef2cd2b",
+        "title": "New Grad Software Engineer - 2024",
+        "active": true,
+        "date_updated": 1693264078,
+        "date_posted": 1693264078,
+        "url": "https://jobs.lever.co/netflix/f725fe5f-616a-4be5-9203-fe9cfc9b2484/apply",
+        "locations": [
+            "Los Gatos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Netflix",
         "is_visible": true,
         "sponsorship": "Other"
     }
