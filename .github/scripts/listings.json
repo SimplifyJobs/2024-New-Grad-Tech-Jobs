@@ -2050,7 +2050,7 @@
         "company_name": "Benefitfocus",
         "id": "76e01e5e-9e8b-4caf-97f2-6c039ef02bdd",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1692803785,
         "date_posted": 1692803785,
         "url": "https://jobs.jobvite.com/benefitfocus/job/oa39ofwu?nl=1&nl=1&fr=false",
@@ -2347,6 +2347,38 @@
             "Los Gatos, CA"
         ],
         "company_url": "https://simplify.jobs/c/Netflix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wisetack",
+        "id": "04b7e305-e453-48b5-ab6a-3246136e3fec",
+        "title": "Credit Risk Analyst",
+        "active": true,
+        "date_updated": 1693322315,
+        "date_posted": 1693322315,
+        "url": "https://boards.greenhouse.io/wisetack/jobs/4306854005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wisetack",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jagger",
+        "id": "c80a11be-40cf-49a7-bafd-40f2f47536c7",
+        "title": "IT Manager",
+        "active": true,
+        "date_updated": 1693321881,
+        "date_posted": 1693321881,
+        "url": "https://jobs.lever.co/hellojagger/29483090-97f0-46ad-9ab0-383fa05b6e84/apply",
+        "locations": [
+            "Abbotsford, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/d9cc25c5-9584-4809-aec0-fa628fbfb89d",
         "is_visible": true,
         "sponsorship": "Other"
     }
