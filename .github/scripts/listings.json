@@ -2018,7 +2018,7 @@
         "company_name": "Enable",
         "id": "ae7aa9be-10dc-44bc-9e8a-92f7b1464ee7",
         "title": "Entry-Level Implementation Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1692746042,
         "date_posted": 1692746042,
         "url": "https://jobs.lever.co/enable/3b878a74-58ed-4d6f-a55b-78aaa27a5af7/apply",
@@ -2411,6 +2411,22 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "The Boeing Company",
+        "id": "d045ef25-9988-4aec-a6ec-0ea3802b4e54",
+        "title": "Manager Software Development \u2013 Early Career Program",
+        "active": true,
+        "date_updated": 1693408418,
+        "date_posted": 1693408418,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Seattle-WA/Manager-Software-Development---Early-Career-Program_00000390214-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
     }
