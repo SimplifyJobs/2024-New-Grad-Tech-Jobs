@@ -843,7 +843,7 @@
         "company_name": "Parallel",
         "id": "ad8fcd60-733e-4e39-a465-f6e984473c02",
         "title": "Supply Chain Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1692640802,
         "date_posted": 1689750869,
         "url": "https://boards.greenhouse.io/paralleljobs/jobs/6816775002",
@@ -891,7 +891,7 @@
         "company_name": "Forward",
         "id": "8fb0df3d-44ec-40e4-9bd6-ce301ce4a27c",
         "title": "Strategy and Operations \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1689750548,
         "date_posted": 1689750548,
         "url": "https://jobs.lever.co/goforward/8105398c-f878-48b3-85d2-3e8046b2754c/apply",
@@ -1596,7 +1596,7 @@
         "company_name": "Stripe",
         "id": "a1773616-f47f-45c0-b0e6-017a97c432ae",
         "title": "Software Engineering \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1692659821,
         "date_posted": 1692659821,
         "url": "https://stripe.com/jobs/search?gh_jid=5306079",
@@ -1760,7 +1760,7 @@
         "company_name": "Arrowstreet Capital",
         "id": "8ec2e365-b6a1-499b-8fdb-b77b0883acc8",
         "title": "Quantitative Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1691733557,
         "date_posted": 1691733557,
         "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/job/Boston/Quantitative-Developer_R866",
@@ -2227,7 +2227,7 @@
         "company_name": "Hillel International",
         "id": "e1a258c0-c924-46e5-b4d8-491f645f6d08",
         "title": "Hillel at the University of Wisconsin Springboard Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1691652254,
         "date_posted": 1691652254,
         "url": "https://boards.greenhouse.io/hillel/jobs/4191778005",
@@ -2379,6 +2379,38 @@
             "Abbotsford, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/d9cc25c5-9584-4809-aec0-fa628fbfb89d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Stripe",
+        "id": "0ebc4abe-2620-4172-bc5e-10aa8bd34928",
+        "title": "Software Engineering \u2013 New Grad",
+        "active": true,
+        "date_updated": 1693379853,
+        "date_posted": 1693379853,
+        "url": "https://stripe.com/jobs/search?gh_jid=5318696",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "e41da6ef-819c-48f2-98a9-d4717ceb3fa8",
+        "title": "New Grad 2024 - Software Engineer - Frontend",
+        "active": true,
+        "date_updated": 1693379771,
+        "date_posted": 1693379771,
+        "url": "https://jobs.ashbyhq.com/ramp/0ae01d73-3f48-4722-9810-0c6c1940d7bd/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
         "is_visible": true,
         "sponsorship": "Other"
     }
