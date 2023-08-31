@@ -2429,5 +2429,85 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Disher",
+        "id": "de812f79-2e37-4086-9d5f-9455b5e9c3fd",
+        "title": "RPA Developer",
+        "active": true,
+        "date_updated": 1693437839,
+        "date_posted": 1693437839,
+        "url": "https://jobs.lever.co/disher/f4b4eb05-5ee8-448b-843e-4e0bfa2d3bb0/apply",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Disher",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ramp",
+        "id": "ebe01b3a-3eff-478b-baa4-8981955031a1",
+        "title": "New Grad 2024 - Software Engineer - Backend",
+        "active": true,
+        "date_updated": 1693437422,
+        "date_posted": 1693437422,
+        "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ramp",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bankers Healthcare Group",
+        "id": "ee29f2d1-d01b-4ac2-b634-49de1fde3a25",
+        "title": "Quantitative Analyst - Credit Risk",
+        "active": true,
+        "date_updated": 1693436887,
+        "date_posted": 1693436887,
+        "url": "https://jobs.lever.co/bhg-inc/fba6b225-133e-4a45-a9f6-902117ef98ed/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bankers-Healthcare-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Bankers Healthcare Group",
+        "id": "9aa533c9-6b4a-4b7d-874a-2c123314f44d",
+        "title": "Quantitative Analyst - Credit Risk",
+        "active": true,
+        "date_updated": 1693436889,
+        "date_posted": 1693436889,
+        "url": "https://jobs.lever.co/bhg-inc/c966fb5d-4a65-4536-a954-8c4fa6d0def9/apply",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bankers-Healthcare-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "f694cc15-f9ce-4666-9a86-58edf176877b",
+        "title": "GPU Performance Software Engineer \u2013 New College Grad 2023",
+        "active": true,
+        "date_updated": 1693436681,
+        "date_posted": 1693436681,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Performance-Software-Engineer---New-College-Grad-2023_JR1971483",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
