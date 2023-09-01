@@ -2685,5 +2685,69 @@
         "company_url": "https://simplify.jobs/c/January",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "82611c2b-5114-4604-ab83-939b24a0cdbd",
+        "title": "2024 Early Career Program: Associate Data Analyst",
+        "active": true,
+        "date_updated": 1693581578,
+        "date_posted": 1693581578,
+        "url": "https://boards.greenhouse.io/rvohealth/jobs/4302891005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "74246609-2ccf-408e-b917-f14a301ed26f",
+        "title": "2024 Early Career Program: Software Engineer",
+        "active": true,
+        "date_updated": 1693581573,
+        "date_posted": 1693581573,
+        "url": "https://boards.greenhouse.io/rvohealth/jobs/4302889005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "c512d8af-b7b8-442e-aa53-6d4886810d05",
+        "title": "2024 Early Career Program: Data Analyst Intern",
+        "active": true,
+        "date_updated": 1693581580,
+        "date_posted": 1693581580,
+        "url": "https://boards.greenhouse.io/rvohealth/jobs/4306587005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RVO Health",
+        "id": "bc67b34d-0fd0-4e2f-ab2f-bc5bbdba890c",
+        "title": "2024 Early Career Program: Software Engineering Intern",
+        "active": true,
+        "date_updated": 1693581575,
+        "date_posted": 1693581575,
+        "url": "https://boards.greenhouse.io/rvohealth/jobs/4306588005",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RVO-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
