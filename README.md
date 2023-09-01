@@ -1,3 +1,3 @@
 # This Repo is deprecated and will soon be archived
 
-# It is now located [here](https://github.com/SimplifyJobs/New-Grad-Positions)
+# New Grad Tech Jobs will now be posted [here](https://github.com/SimplifyJobs/New-Grad-Positions)
