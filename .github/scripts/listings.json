@@ -2435,7 +2435,7 @@
         "company_name": "Disher",
         "id": "de812f79-2e37-4086-9d5f-9455b5e9c3fd",
         "title": "RPA Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1693437839,
         "date_posted": 1693437839,
         "url": "https://jobs.lever.co/disher/f4b4eb05-5ee8-448b-843e-4e0bfa2d3bb0/apply",
@@ -2507,6 +2507,38 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "January",
+        "id": "45c9e42a-982e-40ba-adf0-58ea2308e370",
+        "title": "Software Engineer - New York City",
+        "active": true,
+        "date_updated": 1693523739,
+        "date_posted": 1693523739,
+        "url": "https://boards.greenhouse.io/january/jobs/4017063007",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/January",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ServiceNow",
+        "id": "7b611fe4-090f-4ca0-95ae-fcc4901e02a2",
+        "title": "Finance Development Rotation Program \u2013 New Grad",
+        "active": true,
+        "date_updated": 1693523676,
+        "date_posted": 1693523676,
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/743999927720948",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceNow",
         "is_visible": true,
         "sponsorship": "Other"
     }
